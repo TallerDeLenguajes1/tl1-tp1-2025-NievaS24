@@ -22,3 +22,8 @@ archivo.txt
 *.exe  
 #### Carpetas  
 carpeta/  
+
+# Punteros  
+Respondiendo al punto **3g**:  
+Los apartados 2. y 3. tienen el mismo resultado ya que el puntero tiene almacenada la dirección de memoria de la variable.  
+En cambio en el apartado 4. ya obtengo otra dirección de memoria, que en este caso es la del puntero.  
